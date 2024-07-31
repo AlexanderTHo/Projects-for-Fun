@@ -1,0 +1,7 @@
+[
+    {"attribute": "Red","type": "Leader", "name": "Luffy", "power": 5000},
+    {"attribute": "Red","type": "Character","cost": 3, "name": "Zoro", "power": 5000, "ability": "Rush"},
+    {"attribute": "Red","type": "Character","cost": 1, "name": "Chopper", "power": 1000, "ability": "Blocker"},
+    {"attribute": "Red","type": "Character","cost": 2, "name": "Brook", "power": 3000, "counter": 2000},
+    {"attribute": "Red","type": "Character","cost": 4, "name": "Franky", "power": 6000, "counter": 1000}
+]
