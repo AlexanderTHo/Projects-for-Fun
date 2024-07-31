@@ -30,6 +30,11 @@ List and describe your projects here, for example:
 - **Technologies Used**: Python, Kubernetes
 - **Skills Demonstrated**: Image classification, Kubernetes
 
+### Project 3: One Piece TCG (Simplified)
+- **Description**: Create a simple and functional version of a popular card game
+- **Technologies Used**: TBD
+- **Skills Demonstrated**: TBD
+
 ## Contact
 
 For questions, feedback, or suggestions, feel free to reach out:
